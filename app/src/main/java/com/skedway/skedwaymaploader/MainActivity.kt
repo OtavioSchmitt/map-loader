@@ -71,7 +71,7 @@ fun MapLoader() {
             add(
                 ModelNode(
                     modelInstance = modelLoader.createModelInstance(
-                        assetFileLocation = "models/918.glb"
+                        assetFileLocation = "models/teste.glb"
                     ),
                     scaleToUnits = 1.0f
                 )
